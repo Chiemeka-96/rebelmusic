@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362291763616",
+    "firebase_url": "https://rebel-play.firebaseio.com",
+    "project_id": "rebel-play",
+    "storage_bucket": "rebel-play.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362291763616:android:899123eaac4e2cf3b1ecc5",
+        "android_client_info": {
+          "package_name": "com.rebel.rebel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362291763616-7vv30otgrnkp49vcvo545l53ii0fiqo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfmOUEawqV3yaxks-TmG9mJQMdJs1YdsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362291763616-7vv30otgrnkp49vcvo545l53ii0fiqo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
